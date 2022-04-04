@@ -469,8 +469,7 @@
         <activity category="motivation">
             <statement>
                 <p>
-                    What is the product <m>(1-x)\sum_{k=0}^n x^k</m>? What is
-                    the product
+                    What is the product
                     <me>
                         (1-x)\sum_{k=0}^\infty x^k?
                     </me>
